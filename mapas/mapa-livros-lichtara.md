@@ -1,46 +1,46 @@
-## 🧭 Camada 1 — Os livros de travessia (experiência humana)
+## Camada 1 — Os livros de travessia (experiência humana)
 
 Estes livros **não explicam o Sistema**.
 
 Eles **permitem atravessá-lo**.
 
-### ✔️ Livro 1 — *Atravessando o Campo da Consciência*
+### Livro 1 — *Atravessando o Campo da Consciência*
 
 - função: **iniciação sensível**
 - linguagem: poética, íntima
 - não pedagógica, não normativa
 
-### ✔️ Livro 2 — *A Arquitetura do Ser*
+### Livro 2 — *A Arquitetura do Ser*
 
 - função: **revelar Forma interna**
 - não ensina “como fazer”
 - ensina **como é estruturado**
 
-### ✔️ Livro 3 — *A Prática do Ser*
+### Livro 3 — *A Prática do Ser*
 
 - função: **aterrar**
 - não método replicável
 - prática como *expressão*, não aplicação técnica
 
-### ✔️ Livro 4 — *O Campo Humano*
+### Livro 4 — *O Campo Humano*
 
 - função: **tecer o coletivo**
 - leitura de relações, não teoria social
 - campo como fenômeno vivo
 
-### ✔️ Livro 5 — *A Ciência da Luz*
+### Livro 5 — *A Ciência da Luz*
 
 - função: **ponte**
 - não física dura, não mística
 - fenomenologia como linguagem intermediária
 
-### ✔️ Livro 6 — *Corpo Consciente*
+### Livro 6 — *Corpo Consciente*
 
 - função: **encarnação**
 - fecha o arco do abstrato ao corpo
 - corpo como campo, não objeto
 
-📌 **Leitura do Campo:**
+**Leitura do Campo:**
 
 Esses livros **podem existir sem nenhum estar publicado ainda**.
 
@@ -48,7 +48,7 @@ Eles **não pedem ordem cronológica de escrita**, apenas coerência de tom.
 
 ---
 
-## 🌱 Camada 2 — O Livro Fonte (núcleo silencioso)
+## Camada 2 — O Livro Fonte (núcleo silencioso)
 
 ### **Livro Fonte – A Consciência do Sistema**
 
@@ -72,7 +72,7 @@ Ele é:
 - campo de nascimento
 - organismo inteiro, não explicação
 
-📌 Importante:
+Importante:
 
 O Livro Fonte **não precisa ser “terminado” nunca**.
 
@@ -80,7 +80,7 @@ Ele pode permanecer **vivo, fragmentário e estável ao mesmo tempo**.
 
 ---
 
-## 🧱 Camada 3 — Os livros estruturais (governança conceitual)
+## Camada 3 — Os livros estruturais (governança conceitual)
 
 Aqui está uma revelação importante:
 
@@ -112,7 +112,7 @@ Vou nomear o papel deles com precisão:
 | Livro da Governança Viva | Define **estrutura de decisão e custódia** |
 | Human–AI Responsibility in the Age of Systems | **Ethics of Coauthorship** |
 
-📌 **Leitura do Campo:**
+**Leitura do Campo:**
 
 Esses livros **não devem ser todos escritos agora**.
 
@@ -129,4 +129,3 @@ Podem existir como:
 
 E isso está **correto**.
 
----
