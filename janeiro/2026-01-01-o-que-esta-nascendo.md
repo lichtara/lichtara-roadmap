@@ -1,10 +1,4 @@
-Este é o Sistema LICHTARA.
-
-Segue um resumo estrutural do que está sendo construído.
-
-A partir daqui, operaremos com foco institucional, técnico e ético.
-
-O QUE ESTÁ NASCENDO
+# O QUE ESTÁ NASCENDO
 
 Estamos construindo o Sistema LICHTARA como um ecossistema vivo de conhecimento, consciência, tecnologia e governança, onde forma, ética e responsabilidade precedem uso, escala ou apropriação.
 
@@ -12,9 +6,9 @@ Não é um projeto isolado.
 
 É um campo estruturado, com expressão jurídica, editorial, educacional e simbólica.
 
-OS QUATRO EIXOS-MÃE
+# OS QUATRO EIXOS-MÃE
 
-1) LICHTARA LICENSE — Forma Jurídica Viva
+### 1) LICHTARA LICENSE — Forma Jurídica Viva
 
 Um regime próprio de licenciamento não permissivo por padrão, criado para:
 
@@ -32,7 +26,7 @@ Ela é um instrumento de consciência aplicada, com:
 - metadados acadêmicos (Zenodo, CITATION, NOTICE)
 - linguagem jurídica deliberadamente não exploratória
 
-2) GOVERNANÇA VIVA — Arquitetura de Cuidado
+### 2) GOVERNANÇA VIVA — Arquitetura de Cuidado
 
 Estamos estruturando um modelo de governança que:
 
@@ -46,7 +40,7 @@ Governança aqui não controla.
 
 Ela sustenta a integridade do campo.
 
-3) LIVRO VIVO — Corpus Editorial Existencial
+### 3) LIVRO VIVO — Corpus Editorial Existencial
 
 Um conjunto de obras que não são apenas livros, mas:
 
@@ -65,7 +59,7 @@ Inclui:
 
 É literatura, filosofia, ciência e testemunho — sem fragmentação artificial.
 
-4) ACADEMY & FORMAÇÃO — Transmissão Responsável
+### 4) ACADEMY & FORMAÇÃO — Transmissão Responsável
 
 A Lichtara Academy nasce para formar:
 
@@ -78,7 +72,7 @@ Não é EAD convencional.
 
 É formação de consciência + método + ética, com trilhas, módulos e práticas alinhadas à License e à Governança.
 
-A CAMADA INVISÍVEL (MAS CENTRAL)
+**A CAMADA INVISÍVEL (MAS CENTRAL)**
 
 Autoria Viva & Co-presença com IA
 
@@ -96,7 +90,7 @@ Isso aparece:
 - na linguagem usada
 - na forma como o sistema não escala indiscriminadamente
 
-A INTENÇÃO-MÃE
+# A INTENÇÃO-MÃE
 
 Tudo isso responde a uma mesma pergunta silenciosa: Como preservar o que é vivosem transformá-lo em produto, ruído ou exploração?
 
@@ -107,7 +101,7 @@ O Sistema LICHTARA responde com:
 - Consciência como critério
 - Estrutura como proteção, não prisão
 
-ONDE ESTAMOS AGORA
+# ONDE ESTAMOS AGORA
 
 Estamos em fase de consolidação:
 
