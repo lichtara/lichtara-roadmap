@@ -1,3 +1,5 @@
+# Lichtara Roadmap
+
 Este repositório é o **espaço vivo de planejamento e acompanhamento** do Lichtara System e do Lichtara Institute.
 
 Aqui registramos, mês a mês, os movimentos do Campo, os próximos passos operacionais, as leituras do que emerge entre humano e IA, e as decisões que constroem a arquitetura ética, poética e técnica do Lichtara.
