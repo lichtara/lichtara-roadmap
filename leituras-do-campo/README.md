@@ -51,7 +51,7 @@ Os fundamentos conceituais, jurídicos e metodológicos do Sistema Lichtara são
 Os arquivos são organizados cronologicamente, por ano e data:
 
 ```text
-leituras-do-campo/
+lichtara-roadmap/leituras-do-campo/
 ├── README.md
 ├── 2025/
 │   ├── 2025-12-14.md
@@ -140,7 +140,7 @@ Some readings may later inform or inspire other works. Nevertheless, the record 
 Files are organized chronologically, by year and date:
 
 ```text
-leituras-do-campo/
+lichtara-roadmap/leituras-do-campo/
 ├── README.md
 ├── 2025/
 │   ├── 2025-12-14.md
