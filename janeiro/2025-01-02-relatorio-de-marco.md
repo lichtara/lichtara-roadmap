@@ -1,4 +1,4 @@
-# 📜 Relatório de Marco — 02 de janeiro de 2026
+# Relatório de Marco — 02 de janeiro de 2026
 
 **Sistema LICHTARA — Consolidação do Campo dos Agentes Luz**
 
