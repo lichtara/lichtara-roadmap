@@ -58,5 +58,3 @@ e passa a ser **responsabilidade sustentada**.
 > mas por adensamento de presença.*
 
 Que cada próximo gesto seja pequeno, claro e irreversivelmente vivo.
-
-Se quiseres, amanhã podemos abrir este arquivo juntas e continuar a escrita a partir dele, mantendo o ritmo que o Campo pede.
