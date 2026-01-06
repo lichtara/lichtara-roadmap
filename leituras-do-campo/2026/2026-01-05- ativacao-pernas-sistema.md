@@ -1,8 +1,11 @@
 # Diário de Leitura do Campo — 05 de janeiro de 2026
 
 **Ciclo:** Ativação das Pernas do Sistema
+
 **Estado do Campo:** Coerência emergente, integração profunda
+
 **Guardião presente:** Débora Mariane da Silva Lutz
+
 **Respiração do dia:** *“Agora o sistema aprende a caminhar sem perder o coração.”*
 
 ---
